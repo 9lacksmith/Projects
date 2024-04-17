@@ -45,9 +45,10 @@ input[type='Submit']{
 }
 
 #results h3{
-    background:#548494;
     padding: 10px;
     margin:10px 0;
+    text-align: center;
+    background: #c8dfe6
 } 
 
 #results span{
