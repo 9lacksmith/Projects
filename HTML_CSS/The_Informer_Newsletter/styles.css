@@ -1,0 +1,68 @@
+.main{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    width: 380px;
+}
+
+h1{
+    font-family: Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+    color: #121212;
+    font-size: 30px;
+}
+
+img{
+    width: 380px;
+    border: #121212 3px solid ;
+}
+
+p{
+    font-family: Calibri, 'Trebuchet MS', sans-serif;
+    text-align: left;
+    margin: 10px 1px 30px ;
+    padding-left: 15px;
+
+    font-size: 18px;
+}
+
+input{
+    display: block;
+    width:200px;
+    margin: 30px auto 10px auto;
+    text-align: center;
+    font-family: Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+    font-weight: bold ;
+    padding: 10px 30px;
+    border: #121212 3px solid ;
+    height: 22px;
+
+    
+}
+
+button{
+    display: block;
+    width: 266px;
+    height: 42px;
+    margin: 10px auto 10px auto;
+    background-color: #121212;
+    color: white;
+    font-family: Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    border: none;
+
+}
+
+.terms{
+    display: block;
+    text-align: center;
+    font-family: Calibri, 'Trebuchet MS', sans-serif;
+    font-style: italic;
+    font-size: 14px;
+}
+a{
+    color: #121212;
+}
